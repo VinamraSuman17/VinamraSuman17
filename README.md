@@ -2,8 +2,8 @@
 - 👀 I’m interested in learning new Technilogies
 - 🌱 I’m currently learning React and GitHub
 - 💞️ I’m looking to collaborate on GitHub
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me Vinamra Suman 
+- 😄 Pronouns: 
 - ⚡ Fun fact: ...
 
 <!---
