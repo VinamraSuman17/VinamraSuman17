@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I build systems that **scale under pressure** — distributed task queues, RAG pipelines, and AI-powered microservices. Currently a 3rd-year IT student at SGSITS, I've shipped production-grade tools used in national-level hackathons and real internships.
+I build systems that **scale under pressure** — distributed task queues, RAG pipelines, and AI-powered microservices. Currently a final-year IT student at SGSITS, I've shipped production-grade tools used in national-level hackathons and real internships.
 
 - 🏆 **Adobe India Hackathon 2025** — Top 100 of 90,000+ teams with *DocuMate*
 - 🏆 **Smart India Hackathon 2024** — National Finalist (1 lakh+ teams) with *FIReBot*
